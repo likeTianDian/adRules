@@ -4,7 +4,7 @@
 
 ***
 
-###QuantumultX:
+### QuantumultX:
 ```ini
 [rewrite_remote]
 https://raw.githubusercontent.com/likeTianDian/adRules/main/QuantumultX/startup.qxrewrite
