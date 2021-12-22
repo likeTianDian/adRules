@@ -12,4 +12,4 @@ https://raw.githubusercontent.com/likeTianDian/adRules/main/QuantumultX/startup.
 
 # 感谢
 
-[@blackmatrix7](https://www.github.com/blackmatrix7)
+[@blackmatrix7](https://github.com/blackmatrix7)
