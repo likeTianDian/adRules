@@ -1,0 +1,2 @@
+# 喜马拉雅,不清除是哪些广告
+^https?:\/\/adbehavior\.ximalaya\.com\/api\/v1\/adRealTime url reject-dict
