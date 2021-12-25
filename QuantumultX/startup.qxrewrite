@@ -1,2 +1,2 @@
-# 喜马拉雅,不清楚是哪些广告
-^https?:\/\/adbehavior\.ximalaya\.com\/api\/v1\/adRealTime url reject-dict
+# 喜马拉雅
+^https?:\/\/adse\.ximalaya\.com\/ting\/loading url reject
