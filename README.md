@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/likeTianDian/adRules/main/rewrite/QuantumultX/
 
 #### 其他
 ```ini
+[rewrite_remote]
 https://raw.githubusercontent.com/likeTianDian/adRules/main/rewrite/QuantumultX/Ads.qxrewrite
 ```
 
