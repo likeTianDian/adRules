@@ -3,3 +3,6 @@
 
 # 起点阅读
 ^https?:\/\/magev6\.if\.qidian\.com\/argus\/api\/v\d\/adv\/getadvlistbatch url reject
+
+# 起点上方提示打赏的小横条
+^https?:\/\/magev6\.if\.qidian.com\/argus\/api/v\d\/message\/getpushedmessagelist url reject
