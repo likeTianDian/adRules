@@ -1,2 +1,5 @@
 # 喜马拉雅
 ^https?:\/\/mobwsa\.ximalaya\.com\/discovery-feed\/v\d\/mix url reject
+
+# 起点阅读
+^https?:\/\/magev6\.if\.qidian\.com\/argus\/api\/v\d\/adv\/getadvlistbatch url reject
