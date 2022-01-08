@@ -1,8 +1,6 @@
-# adRules
+# scripts
 
-本项目只是用于收集一些自己使用软件时遇到的广告。
-
-> Ps：由于本人不精通这方面，可能有各种问题，不过本项目也只是方便我自己使用，如果有其他人用的话，欢迎提出issues。
+本项目只是用于记录自己用的脚本
 
 ***
 
@@ -10,13 +8,13 @@
 #### 开屏广告
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/likeTianDian/adRules/main/rewrite/QuantumultX/startup.qxrewrite
+https://raw.githubusercontent.com/likeTianDian/scripts/main/rewrite/QuantumultX/startup.qxrewrite
 ```
 
 #### 其他
 ```ini
 [rewrite_remote]
-https://raw.githubusercontent.com/likeTianDian/adRules/main/rewrite/QuantumultX/Ads.qxrewrite
+https://raw.githubusercontent.com/likeTianDian/scripts/main/rewrite/QuantumultX/Ads.qxrewrite
 ```
 
 # 感谢
