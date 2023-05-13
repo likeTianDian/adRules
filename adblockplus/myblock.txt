@@ -1,2 +1,4 @@
-# bilibili
+[Adblock Plus]
+
+! bilibili
 www.bilibili.com##.bpx-player-cmd-dm-inside
